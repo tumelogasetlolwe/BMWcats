@@ -1,18 +1,23 @@
 package org.example;
 
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Tumelo Geee");
-    }
+    
 
-    public String Nhlanhla(){
+    public String Ntswaki(){
 
 
         return null;
     }
 
-    public String Teee(){
+    public String Gasetlolwe(){
 
         return null;
     }
+
+    public String Lesley(){
+
+
+        return null;
+    }
+
 }
